@@ -1,0 +1,5 @@
+{
+  "name": "ResumeCraft",
+  "description": "An intelligent resume generation system that creates customized, ATS-friendly resumes using Google Gemini models.",
+  "requestFramePermissions": []
+}
